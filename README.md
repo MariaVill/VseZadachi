@@ -2,17 +2,19 @@
 
  0. Вывести квадрат числа
 
- [Code](Zadacha000/Program.cs)
+    [Code](Zadacha000/Program.cs)
 
  1. По двум заданным числам проверять является ли первое квадратом второго
 
- [Code](Zadacha001/Program.cs)
+    [Code](Zadacha001/Program.cs)
 
  2. Даны два числа. Показать большее и меньшее число
 
- [Code](Zadacha002/Program.cs)
+    [Code](Zadacha002/Program.cs)
 
  3. По заданному номеру дня недели вывести его название
+
+    [Code](Zadacha003/Program.cs)
 
  4. Найти максимальное из трех чисел
 
