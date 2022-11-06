@@ -1,0 +1,15 @@
+C:\Users\79111\Desktop\VseZadachi_c#\Zadacha004\bin\Debug\net6.0\Zadacha004.exe
+C:\Users\79111\Desktop\VseZadachi_c#\Zadacha004\bin\Debug\net6.0\Zadacha004.deps.json
+C:\Users\79111\Desktop\VseZadachi_c#\Zadacha004\bin\Debug\net6.0\Zadacha004.runtimeconfig.json
+C:\Users\79111\Desktop\VseZadachi_c#\Zadacha004\bin\Debug\net6.0\Zadacha004.dll
+C:\Users\79111\Desktop\VseZadachi_c#\Zadacha004\bin\Debug\net6.0\Zadacha004.pdb
+C:\Users\79111\Desktop\VseZadachi_c#\Zadacha004\obj\Debug\net6.0\Zadacha004.csproj.AssemblyReference.cache
+C:\Users\79111\Desktop\VseZadachi_c#\Zadacha004\obj\Debug\net6.0\Zadacha004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79111\Desktop\VseZadachi_c#\Zadacha004\obj\Debug\net6.0\Zadacha004.AssemblyInfoInputs.cache
+C:\Users\79111\Desktop\VseZadachi_c#\Zadacha004\obj\Debug\net6.0\Zadacha004.AssemblyInfo.cs
+C:\Users\79111\Desktop\VseZadachi_c#\Zadacha004\obj\Debug\net6.0\Zadacha004.csproj.CoreCompileInputs.cache
+C:\Users\79111\Desktop\VseZadachi_c#\Zadacha004\obj\Debug\net6.0\Zadacha004.dll
+C:\Users\79111\Desktop\VseZadachi_c#\Zadacha004\obj\Debug\net6.0\refint\Zadacha004.dll
+C:\Users\79111\Desktop\VseZadachi_c#\Zadacha004\obj\Debug\net6.0\Zadacha004.pdb
+C:\Users\79111\Desktop\VseZadachi_c#\Zadacha004\obj\Debug\net6.0\Zadacha004.genruntimeconfig.cache
+C:\Users\79111\Desktop\VseZadachi_c#\Zadacha004\obj\Debug\net6.0\ref\Zadacha004.dll
