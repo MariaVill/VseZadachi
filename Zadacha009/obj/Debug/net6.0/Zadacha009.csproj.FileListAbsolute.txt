@@ -1,0 +1,15 @@
+C:\Users\79111\Desktop\VseZadachi_c#\Zadacha009\obj\Debug\net6.0\Zadacha009.csproj.AssemblyReference.cache
+C:\Users\79111\Desktop\VseZadachi_c#\Zadacha009\obj\Debug\net6.0\Zadacha009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79111\Desktop\VseZadachi_c#\Zadacha009\obj\Debug\net6.0\Zadacha009.AssemblyInfoInputs.cache
+C:\Users\79111\Desktop\VseZadachi_c#\Zadacha009\obj\Debug\net6.0\Zadacha009.AssemblyInfo.cs
+C:\Users\79111\Desktop\VseZadachi_c#\Zadacha009\obj\Debug\net6.0\Zadacha009.csproj.CoreCompileInputs.cache
+C:\Users\79111\Desktop\VseZadachi_c#\Zadacha009\bin\Debug\net6.0\Zadacha009.exe
+C:\Users\79111\Desktop\VseZadachi_c#\Zadacha009\bin\Debug\net6.0\Zadacha009.deps.json
+C:\Users\79111\Desktop\VseZadachi_c#\Zadacha009\bin\Debug\net6.0\Zadacha009.runtimeconfig.json
+C:\Users\79111\Desktop\VseZadachi_c#\Zadacha009\bin\Debug\net6.0\Zadacha009.dll
+C:\Users\79111\Desktop\VseZadachi_c#\Zadacha009\bin\Debug\net6.0\Zadacha009.pdb
+C:\Users\79111\Desktop\VseZadachi_c#\Zadacha009\obj\Debug\net6.0\Zadacha009.dll
+C:\Users\79111\Desktop\VseZadachi_c#\Zadacha009\obj\Debug\net6.0\refint\Zadacha009.dll
+C:\Users\79111\Desktop\VseZadachi_c#\Zadacha009\obj\Debug\net6.0\Zadacha009.pdb
+C:\Users\79111\Desktop\VseZadachi_c#\Zadacha009\obj\Debug\net6.0\Zadacha009.genruntimeconfig.cache
+C:\Users\79111\Desktop\VseZadachi_c#\Zadacha009\obj\Debug\net6.0\ref\Zadacha009.dll
